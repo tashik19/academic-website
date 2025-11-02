@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "CS 1342: Programming for Scientists and Engineers"
 collection: teaching
 type: "Teaching Assistantship"
-permalink: /teaching/cs1342-programming-for-scientists-and-engineers
+permalink: /teaching/cs1342-programming-for-scientists-and-engineers/
 venue: "Texas State University, Department of Computer Science"
 date: 2024-01-01
 location: "San Marcos, Texas, USA"

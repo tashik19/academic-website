@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "Google Play Store Data Mining and Analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-google-play-data-mining
+permalink: /publication/2019-google-play-data-mining/
 excerpt: "Data-driven analysis of Google Play Store applications to uncover patterns in user engagement and developer trends."
 date: 2019-01-01
 venue: "International Journal of Applied Information Systems"

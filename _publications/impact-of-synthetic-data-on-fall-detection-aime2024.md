@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "The Impact of Synthetic Data on Fall Detection Application"
 collection: publications
 category: conferences
-permalink: /publication/2024-impact-of-synthetic-data
+permalink: /publication/2024-impact-of-synthetic-data/
 excerpt: "A study on the effect of synthetic data augmentation for improving fall detection accuracy using wearable sensors."
 date: 2024-07-01
 venue: "International Conference on Artificial Intelligence in Medicine (AIME 2024)"

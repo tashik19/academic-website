@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "TransConv-DDPM: Time-Series Data Generation With Diffusion"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-transconv-ddpm-pulse
+permalink: /publication/2025-transconv-ddpm-pulse/
 excerpt: "A concise IEEE PULSE article introducing TransConv-DDPM for healthcare time-series data generation."
 date: 2025-03-01
 venue: "IEEE PULSE"

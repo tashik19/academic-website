@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "CS 2308: Foundations of Computer Science II"
 collection: teaching
 type: "Teaching Assistantship"
-permalink: /teaching/cs2308-foundations-of-computer-science-II
+permalink: /teaching/cs2308-foundations-of-computer-science-II/
 venue: "Texas State University, Department of Computer Science"
 date: 2025-08-01
 location: "San Marcos, Texas, USA"

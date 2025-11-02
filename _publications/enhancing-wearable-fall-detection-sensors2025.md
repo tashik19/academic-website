@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "Enhancing Wearable Fall Detection System via Synthetic Data"
-collection: publications
+collection: publications   # fine to keep for theme menus
 category: manuscripts
-permalink: /publication/2025-sensors-fall-detection
+permalink: /publication/2025-sensors-fall-detection/   # <-- note trailing slash
 excerpt: "A diffusion-based approach for augmenting wearable fall detection datasets with synthetic sensor data."
 date: 2025-07-01
 venue: "Sensors, MDPI"

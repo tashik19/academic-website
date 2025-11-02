@@ -1,8 +1,9 @@
 ---
+layout: single
 title: "TransConv-DDPM: Enhanced Diffusion Model for Generating Time-Series Data in Healthcare"
 collection: publications
 category: conferences
-permalink: /publication/2025-transconv-ddpm-enhanced-diffusion
+permalink: /publication/2025-transconv-ddpm-enhanced-diffusion/
 excerpt: "A diffusion-based generative model for realistic time-series data in healthcare applications, improving data fidelity and robustness."
 date: 2025-07-01
 venue: "IEEE COMPSAC 2025"
